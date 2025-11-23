@@ -1,6 +1,8 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:atagle123/backend_anonym_audio.git
+	branch = master
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:M4thinking/frontend_anonym_audio.git
+	branch = main

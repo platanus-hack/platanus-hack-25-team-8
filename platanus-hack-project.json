@@ -1,4 +1,4 @@
-{
-  "project-name": "<FILL THIS>",
-  "project-description-spanish": "<FILL THIS>"
+{"project-name":"Hop",
+"project-description-spanish":"Un blindaje activo para tus llamadas",
+"deploy-url":"https://frontend-anonym-audio.vercel.app/"
 }
